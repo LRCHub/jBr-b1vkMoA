@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Inferno",
+  "base_artist": "Hiroyuki Sawano",
+  "createdAt": "2026-02-10T21:10:29.569742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disco Inferno",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/01_Disco_Inferno_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disco Inferno (Produced by C. Styles and Bang Out for Dangerous LLC)",
+      "artist": "50 Cent",
+      "has_synced": true,
+      "path": "select/02_Disco_Inferno_(Produced_by_C._Styles_and_Bang_Out_for_Dangerous_LLC)_50_Cent.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Towering Inferno",
+      "artist": "Lucky Soul",
+      "has_synced": false,
+      "path": "select/03_The_Towering_Inferno_Lucky_Soul.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inferno",
+      "artist": "Jack Back",
+      "has_synced": true,
+      "path": "select/04_Inferno_Jack_Back.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vamos a la Playa (Le Hammond Inferno Popskee Remix)",
+      "artist": "Righeira",
+      "has_synced": false,
+      "path": "select/05_Vamos_a_la_Playa_(Le_Hammond_Inferno_Popskee_Remix)_Righeira.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vamos a la Playa (Le Hammond Inferno - Popskee Remix)",
+      "artist": "Righeira",
+      "has_synced": false,
+      "path": "select/06_Vamos_a_la_Playa_(Le_Hammond_Inferno_-_Popskee_Remix)_Righeira.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunrise (Ratty's Inferno)",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/07_Sunrise_(Ratty's_Inferno)_Scooter.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inferno",
+      "artist": "Lunascape",
+      "has_synced": false,
+      "path": "select/08_Inferno_Lunascape.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Inferno",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/09_Inferno_Beck.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disco Inferno",
+      "artist": "Perturbator",
+      "has_synced": true,
+      "path": "select/10_Disco_Inferno_Perturbator.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disco Inferno",
+      "artist": "The Trammps",
+      "has_synced": true,
+      "path": "select/11_Disco_Inferno_The_Trammps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Inferno",
+      "artist": "Treat",
+      "has_synced": true,
+      "path": "select/12_Inferno_Treat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Need Your Money - Live At the Inferno",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/13_Don't_Need_Your_Money_-_Live_At_the_Inferno_Raven.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live At the Inferno",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/14_Live_At_the_Inferno_Raven.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Inferno",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Inferno_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Inferno",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_02_Inferno_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Inferno",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_03_Inferno_澤野弘之.txt"
+    }
+  ]
+}
